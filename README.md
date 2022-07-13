@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Luther</h1>
 <h3 align="center">A 42 Student</h3>
 <div align="center">
-- 🔭 I’m currently studying at [42lyon](https://42lyon.fr)
+🔭 I’m currently studying at [42lyon](https://42lyon.fr)
 
-- 👨‍💻 All of my projects are available at [www.luthernemor.fr](www.luthernemor.fr)
+👨‍💻 All of my projects are available at [www.luthernemor.fr](www.luthernemor.fr)
 
-- 📫 How to reach me **nemorluther@gmail.com**
+📫 How to reach me **nemorluther@gmail.com**
 
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl5jkavye01110amfy7q6da6p/stats?cursusId=21&coalitionId=49" alt="lnemor's 42 stats" /></a>
 
