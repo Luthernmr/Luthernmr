@@ -8,7 +8,7 @@
 
 📫 How to reach me **nemorluther@gmail.com**
 
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl5jkavye01110amfy7q6da6p/stats?cursusId=21&coalitionId=49" alt="lnemor's 42 stats" /></a>
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl5jkavye01110amfy7q6da6p/stats?cursusId=21&coalitionId=302" alt="lnemor's 42 stats" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
