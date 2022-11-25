@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Luther</h1>
-<h3 align="center">A 42 Student</h3>
-<div align="center">
+<h1>Hi 👋, I'm Luther</h1>
+<h3>A 42 Student</h3>
+<div>
 
 🔭 I’m currently studying at [42lyon](https://42lyon.fr)
 
