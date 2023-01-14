@@ -4,7 +4,7 @@
 
 🔭 I’m currently studying at [42lyon](https://42lyon.fr)
 
-👨‍💻 All of my projects are available at [www.luthernemor.fr](www.luthernemor.fr)
+👨‍💻 All of my projects are available here.
 
 📫 How to reach me **nemorluther@gmail.com**
 
