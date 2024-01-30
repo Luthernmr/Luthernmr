@@ -6,7 +6,6 @@
 
 👨‍💻 All of my projects are available here.
 
-📫 How to reach me **nemorluther@gmail.com**
 
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl5jkavye01110amfy7q6da6p/stats?cursusId=21&coalitionId=302" alt="lnemor's 42 stats" /></a>
 
