@@ -2,7 +2,8 @@
 <h3>A 42 Student</h3>
 <div>
 
-<h3>Compétences Clés</h3>
+<h3>Compétences Clés:</h3>
+
 - Cloud Computing: Expertise avancée dans l'utilisation d'AWS pour provisionner et gérer des ressources cloud, y compris EC2, S3, RDS, VPC, et bien d'autres.
 - Infrastructure as Code (IaC): Maîtrise de Terraform pour définir et déployer l'infrastructure de manière reproductible et automatisée.
 - Conteneurisation: Expérience approfondie dans la création, la gestion et le déploiement de conteneurs Docker pour des environnements de développement, de test et de production.
