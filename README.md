@@ -9,7 +9,7 @@
 
 🔭 I’m currently studying at [42lyon](https://42lyon.fr)
 
-[nemorluther.fr](nemorluther.fr)
+[nemorluther.fr](https://nemorluther.fr)
 
 👨‍💻 All of my projects are available here.
 
