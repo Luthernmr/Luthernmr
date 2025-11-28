@@ -24,27 +24,6 @@ Mon approche : simplicité, reproductibilité et optimisation FinOps.
 
 ---
 
-## Expériences & réalisations (sélection)
-
-- **Atyos — Ingénieur DevOps / AWS & Terraform**
-  - MCO, conception de schémas réseau multi‑VPC, mise en place de monitoring et d’automatisations (Python Lambda), gestion de clusters ECS.
-
-- **Trace — Migration vers AWS ECS Fargate**
-  - Containerisation, optimisation des Dockerfiles, préparation aux déploiements prod.
-
-- Missions de conseil en architecture cloud, résilience et PRA, et optimisation FinOps.
-
----
-
-## Repos recommandés
-
-- `infrastructure-terraform` — exemples & modules Terraform réutilisables (VPC, EKS/ECS, RDS, IAM)
-- `devops-playbooks` — scripts & playbooks pour CI/CD, observabilité, backup, sécurité
-- `docker-examples` — Dockerfiles optimisés, build multi‑stage, bonnes pratiques
-- `k8s-manifests` — manifests Kubernetes, Helm charts & opérateurs
-
----
-
 ## Services proposés
 
 - Architecture AWS (conception & migration) — lift & shift, cloud-native
