@@ -36,5 +36,3 @@ Mon approche : simplicité, reproductibilité et optimisation FinOps.
 ## Contact & profils
 
 - Malt : [https://www.malt.fr/profile/luthernemor](https://www.malt.fr/profile/luthernemor)
-- GitHub : **@Luthernmr** (suggéré)
-- Localisation : Lyon, France (déplacements possibles : Paris, Strasbourg, Annecy)
